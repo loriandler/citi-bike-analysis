@@ -2,6 +2,9 @@
 
 ![citi-bikelogo](citibike%20image.png)
 
+## Tableau Public Site
+https://public.tableau.com/views/Citibike-Challenge18-LA/Analysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Process/Analysis
 For Module 18, Tableau was used to visualize New York Citi Bike data.
 
